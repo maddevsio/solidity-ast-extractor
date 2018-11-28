@@ -1,13 +1,11 @@
 {
-  "name": "app",
+  "name": "solidity-ast-extractor",
   "version": "1.0.0",
-  "description": "",
+  "description": "Parse solidity files extract compiler version, contracts and AST.",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "keywords": [],
-  "author": "",
+  "author": "Daniyar Chambylov",
   "license": "ISC",
   "dependencies": {
     "fs": "0.0.1-security",
